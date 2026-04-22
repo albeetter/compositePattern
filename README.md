@@ -13,3 +13,6 @@
 2. **Calculate Student Count:** Dynamically calculate the total number of students within any given educational unit (e.g., a specific department or an entire college).
 3. **Calculate Budget:** Compute the net budget for any unit. The budget is defined as the total sum of teacher salaries *minus* the total sum of student tuition fees.
 4. **Display Details:** Print a clearly formatted, indented text tree showing the details of any educational unit and all of its sub-components.
+
+### UML Diagram
+<img src="https://github.com/albeetter/compositePattern/blob/main/ClassDiagramComposite.png" alt="classdiagram">
